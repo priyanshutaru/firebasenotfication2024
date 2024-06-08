@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515445022438",
+    "project_id": "pushnotification-fb08b",
+    "storage_bucket": "pushnotification-fb08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515445022438:android:d458ebb66c811120f8e527",
+        "android_client_info": {
+          "package_name": "com.flutterfreaks.firebasenotificationmodule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseofmqg-SnBi35GoZ4Ls2Xa5_Df83kWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
